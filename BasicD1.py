@@ -12,3 +12,4 @@ name ='sagar k'
 age= 25
 name_ang_age= f'my name is {name} and i am {age} yers old'
 print(name_ang_age)
+print ('hello world ')
