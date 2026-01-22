@@ -1,5 +1,5 @@
-is_admin= False
-if not is_admin:
-    print('acced denied')
-else:
-    print('welcome')
+my_var=100
+def show_var():
+    print(my_var)
+show_var()
+print(my_var)
