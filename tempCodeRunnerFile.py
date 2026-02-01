@@ -1,2 +1,5 @@
-e = True or False
-print (e)
+a =int(input("number 1"))
+# b= int(input("number 2"))
+# print(a)
+# print (b)
+print("the square is ",(a*a))
