@@ -1,5 +1,2 @@
-a =int(input("number 1"))
-# b= int(input("number 2"))
-# print(a)
-# print (b)
-print("the square is ",(a*a))
+a="sagar is good \n boy not a bad boy "
+print (a)
