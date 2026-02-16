@@ -122,3 +122,5 @@ if __name__ == '__main__':
               if i + j + k != n]
 
     print(result)
+
+    
