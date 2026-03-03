@@ -8,3 +8,6 @@ print(square(5))
 a=['harry','sagar','shubham']
 final='::'.join(a)
 print(final)
+
+square = lambda y :y*y 
+print(square(5))
