@@ -14,7 +14,7 @@ import random
 0 for gun
 
 '''
-
+import pandas as pd
 
 
 computer=random.choice([-1,0,1])
