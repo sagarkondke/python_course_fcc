@@ -11,3 +11,5 @@ while (a!=n):
         print('higher number please')
         guesses+=1
 print(f'you have guessed the number {n} curectly in {guesses} attempts')
+
+# thid project is really good and doing multiple enoyinh this 
