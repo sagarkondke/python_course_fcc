@@ -1,5 +1,2 @@
-l=['sagar','harry']
-for item in l:
-    print(item)
-else:
-    print('done')
+square = lambda y :y*y 
+print(square(5))
